@@ -1,9 +1,13 @@
 h1 {
-  color: pink;
+  color: blue;
+  font-family: "Courier New", monospace;
 }
 
 img {
   border-radius: 8px;
 }
 
+body {
+  background-color: #E2F0D9;
+}
 /* This is a single-line comment. For more info on CSS, go to https://www.w3schools.com/css/default.asp. */
