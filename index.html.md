@@ -9,7 +9,7 @@
 What is Class?<br>
 
 Class is what students go to in order to learn<br><br>
-<img src="proj1img2" alt="man looking at schedule"><br>  
+<img src="Project1/proj1img2" alt="man looking at schedule"><br>  
 Class makes people tired and want to go back to sleep<br>
 Class gives you homework<br><br>
 <img src="proj1img3" alt="students sad"><br><br>
